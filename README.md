@@ -1,3 +1,4 @@
+
 # 🤖 AI Practice Projects
 
 This repository contains various AI and machine‑learning practice projects built using Python and popular AI libraries.  
